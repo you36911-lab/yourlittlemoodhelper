@@ -1,18 +1,18 @@
 @font-face {
-    font-family: 'A Gentle Touch';
-    src: url('./main/A\ Gentle\ Touch.woff2') format('woff2');
+    font-family: 'A-Gentle-Touch';
+    src: url('./main/A-Gentle-Touch.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
-    font-family: 'Always In My Heart';
-    src: url('./main/Always\ In\ My\ Heart.woff2') format('woff2');
+    font-family: 'Always-In-My-Heart';
+    src: url('./main/Always-In-My-Heart.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
-    font-family: 'Are You Freakin Serious';
-    src: url('./main/Are\ You\ Freakin\ Serious.woff2') format('woff2');
+    font-family: 'Are-You-Freakin-Serious';
+    src: url('./main/Are-You-Freakin-Serious.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
 }
@@ -23,8 +23,8 @@
     font-style: normal;
 }
 @font-face {
-    font-family: 'Shorelines Script Bold';
-    src: url('./main/Shorelines\ Script\ Bold.woff2') format('woff2');
+    font-family: 'Shorelines-Script-Bold';
+    src: url('./main/Shorelines-Script-Bold.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
 }
@@ -38,14 +38,14 @@ h1 {
     color: #333;
     font-size: 70px;
     text-align: center;
-    font-family: 'Are You Freakin Serious', cursive;
+    font-family: 'Are-You-Freakin-Serious', cursive;
     margin-bottom: 30px
 }
 .intro {
     color: #333;
     font-size: 25px;
     text-align: center;
-    font-family: 'Always In My Heart', cursive;
+    font-family: 'Always-In-My-Heart', cursive;
     margin-top: -28px
 }
 .mood.option {
@@ -55,7 +55,7 @@ h1 {
     text-align: center;
     cursor: pointer;
     transition: transform 0.2s ease;
-    font-family: 'Are You Freakin Serious', cursive;
+    font-family: 'Are-You-Freakin-Serious', cursive;
     font-size: 45px;
 }
 .mood.option:hover {
@@ -313,7 +313,7 @@ footer {
     text-align: center;
     margin-top: 40px;
     width: 100%;
-    font-family: 'Always In My Heart', cursive;
+    font-family: 'Always-In-My-Heart', cursive;
 }
 
 main {
@@ -343,7 +343,7 @@ hr {
 }
 
 #suggestion {
-    font-family: 'Always In My Heart', cursive;
+    font-family: 'Always-In-My-Heart', cursive;
     font-size: 40px;
     color: #333;
     margin-top: 150px;
@@ -355,5 +355,6 @@ hr {
     padding: 20px;
 
 }
+
 
 

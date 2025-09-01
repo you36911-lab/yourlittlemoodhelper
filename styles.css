@@ -1,35 +1,35 @@
 @font-face {
     font-family: 'A-Gentle-Touch';
-    src: url('./main/A-Gentle-Touch.woff2') format('woff2');
+    src: url('./A-Gentle-Touch.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 'Always-In-My-Heart';
-    src: url('./main/Always-In-My-Heart.woff2') format('woff2');
+    src: url('./Always-In-My-Heart.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 'Are-You-Freakin-Serious';
-    src: url('./main/Are-You-Freakin-Serious.woff2') format('woff2');
+    src: url('./Are-You-Freakin-Serious.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 'justbeautifulsimplicity';
-    src: url('./main/justbeautifulsimplicity.woff2') format('woff2');
+    src: url('./justbeautifulsimplicity.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 'Shorelines-Script-Bold';
-    src: url('./main/Shorelines-Script-Bold.woff2') format('woff2');
+    src: url('./Shorelines-Script-Bold.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
 }
 body {
-    background-image: url('./main/1.webp');
+    background-image: url('./1.webp');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -351,10 +351,11 @@ hr {
     margin-right: 40px;
     text-align: center;
     border: 40px solid transparent;
-    border-image: url('./main/2.webp') 200 repeat;
+    border-image: url('./2.webp') 200 repeat;
     padding: 20px;
 
 }
+
 
 
 

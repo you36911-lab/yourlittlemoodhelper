@@ -1,30 +1,30 @@
 @font-face {
     font-family: 'A Gentle Touch';
-    src: url('./main/A\ Gentle\ Touch.woff2') format('truetype');
+    src: url('./main/A\ Gentle\ Touch.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 'Always In My Heart';
-    src: url('./main/Always\ In\ My\ Heart.woff2') format('truetype');
+    src: url('./main/Always\ In\ My\ Heart.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 'Are You Freakin Serious';
-    src: url('./main/Are\ You\ Freakin\ Serious.woff2') format('truetype');
+    src: url('./main/Are\ You\ Freakin\ Serious.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 'justbeautifulsimplicity';
-    src: url('./main/justbeautifulsimplicity.woff2') format('truetype');
+    src: url('./main/justbeautifulsimplicity.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 'Shorelines Script Bold';
-    src: url('./main/Shorelines\ Script\ Bold.woff2') format('opentype');
+    src: url('./main/Shorelines\ Script\ Bold.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
 }
@@ -355,4 +355,5 @@ hr {
     padding: 20px;
 
 }
+
 

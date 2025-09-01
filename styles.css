@@ -29,7 +29,7 @@
     font-style: normal;
 }
 body {
-    background-image: url('./images/ChatGPT Image Jul 15, 2025, 06_52_33 PM.png');
+    background-image: url('./images/1.webp');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -351,6 +351,7 @@ hr {
     margin-right: 40px;
     text-align: center;
     border: 40px solid transparent;
-    border-image: url('./images/ChatGPTPM.png') 200 repeat;
+    border-image: url('./images/2.webp') 200 repeat;
     padding: 20px;
+
 }

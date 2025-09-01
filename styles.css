@@ -1,35 +1,35 @@
 @font-face {
     font-family: 'A Gentle Touch';
-    src: url('./fonts/A\ Gentle\ Touch.ttf') format('truetype');
+    src: url('./main/A\ Gentle\ Touch.woff2') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 'Always In My Heart';
-    src: url('./fonts/Always\ In\ My\ Heart.ttf') format('truetype');
+    src: url('./main/Always\ In\ My\ Heart.woff2') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 'Are You Freakin Serious';
-    src: url('./fonts/Are\ You\ Freakin\ Serious.ttf') format('truetype');
+    src: url('./main/Are\ You\ Freakin\ Serious.woff2') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 'justbeautifulsimplicity';
-    src: url('./fonts/justbeautifulsimplicity.ttf') format('truetype');
+    src: url('./main/justbeautifulsimplicity.woff2') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 'Shorelines Script Bold';
-    src: url('./fonts/Shorelines\ Script\ Bold.otf') format('opentype');
+    src: url('./main/Shorelines\ Script\ Bold.woff2') format('opentype');
     font-weight: normal;
     font-style: normal;
 }
 body {
-    background-image: url('./images/1.webp');
+    background-image: url('./main/1.webp');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -351,7 +351,8 @@ hr {
     margin-right: 40px;
     text-align: center;
     border: 40px solid transparent;
-    border-image: url('./images/2.webp') 200 repeat;
+    border-image: url('./main/2.webp') 200 repeat;
     padding: 20px;
 
 }
+
